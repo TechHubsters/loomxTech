@@ -8,7 +8,7 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-    <BrowserRouter basename="/loomx">l̥
+    <BrowserRouter basename="/">l̥
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
