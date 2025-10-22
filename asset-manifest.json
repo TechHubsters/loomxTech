@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/loomxTech/static/css/main.84ae588a.css",
+    "main.js": "/loomxTech/static/js/main.ba46e95b.js",
+    "static/js/453.40b5e5cd.chunk.js": "/loomxTech/static/js/453.40b5e5cd.chunk.js",
+    "index.html": "/loomxTech/index.html",
+    "static/media/automation.svg": "/loomxTech/static/media/automation.8bf0c443bbd8f2a4901f914218e51ac1.svg",
+    "static/media/uiux.svg": "/loomxTech/static/media/uiux.eea69ff627d2c3dd5a301fac07eeb5b7.svg",
+    "static/media/web.svg": "/loomxTech/static/media/web.7e10770af3b6818f7734dae51deaf26e.svg",
+    "static/media/custom.svg": "/loomxTech/static/media/custom.a75c5e6ab22ebfa1f09d93d03a15a4bd.svg",
+    "static/media/app.svg": "/loomxTech/static/media/app.ffa819810fe9e4e85bb36e60c86b16a5.svg",
+    "static/media/startup.svg": "/loomxTech/static/media/startup.552bb1d8dd18567430b3182eb2f26a21.svg",
+    "main.84ae588a.css.map": "/loomxTech/static/css/main.84ae588a.css.map",
+    "main.ba46e95b.js.map": "/loomxTech/static/js/main.ba46e95b.js.map",
+    "453.40b5e5cd.chunk.js.map": "/loomxTech/static/js/453.40b5e5cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84ae588a.css",
+    "static/js/main.ba46e95b.js"
+  ]
+}

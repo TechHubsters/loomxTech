@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Redirecting…</title>
+    <meta http-equiv="refresh" content="0; url=%2FloomxTech%2F">
+    <script>
+      /*
+       * Single Page Apps for GitHub Pages
+       * MIT License
+       * https://github.com/rafgraph/spa-github-pages
+       */
+      (function(l) {
+        var pathSegmentsToKeep = 1; // repo name segments in path (e.g., /loomxTech)
+        var lSearch = l.search ? l.search + '&' : '?';
+        var q = l.pathname.slice(1).split('/').slice(pathSegmentsToKeep).join('/');
+        var search = lSearch + 'p=' + (q ? '/' + q : '') + '&' + l.hash.replace('#','');
+        l.replace(l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
+                  l.pathname.split('/').slice(0, 1 + pathSegmentsToKeep).join('/') + '/' + search);
+      })(window.location);
+    </script>
+  </head>
+  <body>
+    Redirecting…
+  </body>
+</html>
